@@ -1,0 +1,90 @@
+
+body{
+    margin: 0 auto;
+    width: 960px;
+    padding-top: 40px;
+    align-items: center;
+    margin-left: 440px;
+
+}
+
+#vert{
+  border: 1px solid black; 
+  color: #0a7fec;
+  text-align: center;
+  font-weight: bold;
+  width: 150px;
+  height: 656px;
+  margin: 10px 0 15px;
+  border-radius: 0 15px 15px 15px;
+  padding: auto;
+}
+#vert p{
+    font-size: 20px;
+    padding-top: 300PX;
+}
+
+.claro, .oi, .rodape{
+   margin: 10px;
+}
+
+.claro{
+    box-shadow: 5px 5px 5px  rgba(209, 1, 1, 0.541);
+    width: 605px;
+    height: 325px;
+    border: 2px solid red;
+    border-radius: 20px;
+    margin:10px 10px 0 ;
+}
+figure{
+ margin-left: 10px;
+
+}
+h3, p{
+    font-size: 10pt;
+    margin: 5px ;
+    font-family:sans-serif;
+}
+
+.oi{
+    box-shadow: 5px 5px 5px  rgba(209, 178, 1, 0.541);
+    width: 605px;
+    height: 320px;
+    border: 2px solid rgb(255, 208, 0);
+    border-radius: 20px;
+}
+section{
+    float: left;
+    width:600px;
+    margin: 0 auto;
+}
+.RGM {
+    width: 200;
+    text-align: center;
+    border-radius: 40px;
+    background-color: black;
+    color: #fff;
+    border-radius: 10px 10px 0 0;
+}
+
+.rodape{
+    border: 1px solid black; 
+    text-align: center;
+    border-radius: 0px 15px 15px;
+    margin: 0 0 5px;
+    width: 769px;
+    margin-right: 150px;
+}
+
+button{
+    cursor: pointer;
+    display: flex;
+    margin: 10px auto;
+}
+footer{
+    margin: 0;
+    width: 770px;
+    clear: both;
+    padding: 5px;
+    margin-bottom: 5px;
+}
